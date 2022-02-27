@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great and terrible fight in France, between his Majesties forces, and the Prince of Conde; with the total routing of General Seneterre, above 2000 slain upon the place, and Cardinal Mazarine forced to Sedan. Also the cruel and bloudy proceedings of the Dutch against the English, the taking of the Parliaments dove, and their resolution to tie all English-men to the mouth of their canon, that will not fight against the Parliament. Likewise, the proceedings of the Lord Craven in Holland, the uniting of the English, and the agreement made between the King of Scots, and the Estates Generall.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85579</idno>
+            <idno type="STC">Wing G1659</idno>
+            <idno type="STC">Thomason E681_8</idno>
+            <idno type="STC">ESTC R206785</idno>
+            <idno type="EEBO-CITATION">99865891</idno>
+            <idno type="PROQUEST">99865891</idno>
+            <idno type="VID">166356</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85579)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166356)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 105:E681[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great and terrible fight in France, between his Majesties forces, and the Prince of Conde; with the total routing of General Seneterre, above 2000 slain upon the place, and Cardinal Mazarine forced to Sedan. Also the cruel and bloudy proceedings of the Dutch against the English, the taking of the Parliaments dove, and their resolution to tie all English-men to the mouth of their canon, that will not fight against the Parliament. Likewise, the proceedings of the Lord Craven in Holland, the uniting of the English, and the agreement made between the King of Scots, and the Estates Generall.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for George Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Anno Dom. 1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In the form of four letters. The first letter is from Paris and is dated "Novemb. 13. stilo novo. 1652.", the second letter is from Rotterdam, and is dated "Novemb. 9 stil. nov. 1652", the third letter is headed "Another letter from Holland" and is dated "Novemb. 10. stilo novo, 1652", and the fourth letter is headed "Lêhorn October 8.".</note>
+                  <note>Annotation on Thomason copy: "Novemb. 12".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Condé, Louis, --  prince de, 1530-1569 --  Early works to 1800.</term>
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Fronde --  Early works to 1800.</term>
+               <term>Anglo-Dutch War, 1652-1654 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>France --  History --  Louis XIV, 1643-1715 --  Early works to 1800.</term>
+               <term>Netherlands --  History --  1648-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166356:1" rendition="simple:additions"/>
+            <p>A Great and Terrible FIGHT IN FRANCE, BETWEEN His Majeſties forces, and the Prince of Conde; with the total routing of General Seneterre, above 2000 ſlain upon the place, and Cardinal Mazarine forced to SEDAN.</p>
+            <p>ALSO The cruel and bloudy proceedings of the Dutch againſt the Engliſh, the taking of the Parliaments Dove, and their reſolution to tie all Engliſh-men to the mouth of their Canon, that will not fight a<g ref="char:EOLhyphen"/>gainſt the Parliament.</p>
+            <p>Likewiſe, The proceedings of the Lord Craven in Holland, the u<g ref="char:EOLhyphen"/>niting of the Engliſh, and the Agreement made be<g ref="char:EOLhyphen"/>tween the King of Scots, and the Eſtates Ge<g ref="char:EOLhyphen"/>nerall.</p>
+            <p>
+               <add>Nouemb. 22.</add> LONDON: Printed for George Horton, <hi>Anno Dom.</hi> 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:166356:2"/>
+            <pb n="3" facs="tcp:166356:2"/>
+            <head>A BLOUDY FIGHT IN FRANCE.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe Lord Ambaſſador Boreel, hath had audience before the Kings Majeſty; where, in a very lear<g ref="char:EOLhyphen"/>ned Oration, he declared to his Majeſty, the joy and happineſs his Lords and Maſters the States of the Netherlands had conceived by his gracious Accord, and Royal Condeſcentions to the League Offenſive and De<g ref="char:EOLhyphen"/>fenſive againſt poor England; but withal, complement<g ref="char:EOLhyphen"/>ed his Majeſty into a Reſtitution of Depredations done by Sea. From this Audience he repaired to the little Queen now in the Palace Royal, where he ſtaid 3 hours in con<g ref="char:EOLhyphen"/>ference with her and the Lord Jermin, at which time, (it is ſaid) they were agreed upon the Terms, for the States
+<pb n="4" facs="tcp:166356:3"/>to admit her Sons ſhipping to a retreat into their Har<g ref="char:EOLhyphen"/>bors upon all occaſions. But that which moſt diſturbeth the Court of France in their affairs, is, the fatal blow gi<g ref="char:EOLhyphen"/>ven by the Pr. of Conde to ſome of their forces abroad; the manner thus.</p>
+            <p>The King having given Order to Marſhal De Seneterre to go and conduct the Cardinal Mazarine back to the Court, the ſaid Marſhal was advanced with 2000 horſe to Vitry, when the Cardinal being at Sedan, ſent Monſieur L'Eſtrade the late Governour of Dunkirk, to march be<g ref="char:EOLhyphen"/>fore him, and clear the paſſages, with 1200 men, and joyn with the ſaid Marſhal, while he, the Cardinal himſelf, fol<g ref="char:EOLhyphen"/>lowed after, he being then alſo on his way. But the Prince of Conde having notice of the place, and intended juncti<g ref="char:EOLhyphen"/>on of theſe parties, commanded out his Lieutenant Gene<g ref="char:EOLhyphen"/>ral the Prince of Tarante with 3000 horſe, and 3 Regi<g ref="char:EOLhyphen"/>ments of Foot towards Vitry, to intercept (if poſſible) the deſigned union; but comming to Vitry, and finding them united, fell upon them, and gave them a total overthrow, the moſt of them being cut in pieces.</p>
+            <p>Marſhal De Seneterre himſelf is mortally wounded, and now dying in Vitry. Monſieur L'Eſtrade was killed upon the place, together with the Count of Grand Pre, beſides other Officers and Souldiers to the number of two thouſand flain: ſo that the Cardinal was glad to run for it to Sedan, where he muſt ſtay til he be relieved with new ſupplies for his conduct. This is an ill Omen for him, that being to re-enter France, he ſhould thus ſtumble at the threſhold; and it hath given ſuch an alarm at Court, that Orders are iſſued out for a re-inforcement of Tu<g ref="char:EOLhyphen"/>rein's Army, which will be well recruited by the three thouſand horſe and one thouſand foot, that are comming to him out of Normandy, from the Duke of Longuevil<g ref="char:EOLhyphen"/>le, beſides ſuch forces as are hereabouts, and thoſe in Pi<g ref="char:EOLhyphen"/>cardy,
+<pb n="5" facs="tcp:166356:3"/>that are ordered to haſten to him. This day there hath been a full Aſſembly of the Parliament, who have ſat all day, and are not yet riſen. The Court party drive hard, and its thought will carry it, upon this provoking news, for declaring the Prince of Conde Traytor, and ra<g ref="char:EOLhyphen"/>ſing all his hoſtels, houſes, and Caſtles. It is now ſaid, Charls Stuart would for Holland, were he ſupplied with moneys for the journey; and a rumour goes, as if he had a deſign for Ireland, or Scotland. But his party here of<g ref="char:EOLhyphen"/>ten have made many the like reckonings to no purpoſe.</p>
+            <closer>
+               <dateline>Paris, <date>Novemb. 13. <hi>ſtilo novo.</hi> 1652.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A Letter from Rotterdam, Dated Novemb. 9 stil. nov. 1652.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe buſineſs about De Witts Captains is not yet at an end; for they are ſtill kept in priſon, as Renega<g ref="char:EOLhyphen"/>does and Runaways at the late Engagement with the Eng<g ref="char:EOLhyphen"/>liſh. Perhaps they may at the laſt be let go upon promiſe of better behaviour, eſpecially when the new Councel of War is eſtabliſhed, which muſt ſail along with them at ſea, and ſnap them off, if they carry not themſelves ſtout<g ref="char:EOLhyphen"/>ly. This is a miſerable argument of the valour of their Captains, when if they ſhew any hereafter, it will be ſaid they were valiant for fear of the Halter. De Witt himſelf we hear is now faln ſick, I know not whether it be of his Employment. But Trump is like to become the Man of men again, and his laſt Summers miſdemeanors, and the accuſations drawn up againſt him ſhall be buried in Ob<g ref="char:EOLhyphen"/>livion. Having received Orders from the States to haſten out with the Fleet, he is gone himſelf to Helver-ſluys to them, to ſet forward the Expedition.</p>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:166356:4"/>
+            <head>Another Letter from Holland.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe States of Holland proceed vigorouſly for the carrying on of the work in hand, and divers of thoſe ſhaded Cavaliers whom the world thought worthy of nothing but exilement, begin to be looked upon accord<g ref="char:EOLhyphen"/>ing to their worth and known gallantry: The Lord Cra<g ref="char:EOLhyphen"/>ven hath admitted divers Gentlemen into places of high truſt and command, and ſeveral other Regiments have their chief dependance upon the Engliſh; who ſwel with nothing more at preſent, then full bouls to the health of their diſtreſſed maſter, this is a ſymptom of a ſad ſpring, which we may juſtly fear to prevent, though not to en<g ref="char:EOLhyphen"/>counter. The King of France in a Majeſtical crack, hath promiſed to aſſiſt them with 60 ſail, towards the carry<g ref="char:EOLhyphen"/>ing on of their conceived hopes; but you may better truſt his forces at ſea, then at land; for though the French are ſiery courſers upon dry ground, yet Naval diſcipline quickly daſheth their tilt yard paſſions: but to deal plain<g ref="char:EOLhyphen"/>ly and ingeniouſly, the Lords are much heightned at the general peace between the King and his ſubjects, and at<g ref="char:EOLhyphen"/>tribute that great work (under God) to the King of Scots, unto whom, many ſay, they are much obliged, for his great pains he hath taken in the healing of thole ſad breaches between the King and his people; which Chriſtian office, ſay they, hath gained him at Court the title of <hi>Magnae Brittaniae &amp; Hiberniae Rex fidei Defenſor, pericli Diſsipator Gallici, paciſque Compoſitor Generalliſſi<g ref="char:EOLhyphen"/>mae;</hi> that is, Defendor of the faith of Great Britain and Ireland, Diſpercer of the dangers of France, and Com<g ref="char:EOLhyphen"/>poſer of the general peace.</p>
+            <p>His valiant brother James (we hear) is in great favor,
+<pb n="7" facs="tcp:166356:4"/>and is cryed up for the moſt accompliſhed Gentleman, both in arms and courteſie, that graces the French court: His preſence is much deſired both in City and Countrey, but eſpecially in the Army, where he hath the general re<g ref="char:EOLhyphen"/>ſpect even from the greateſt Commander to the private ſouldier; he hath a great influence upon the people, by reaſon of his civil carriage towards them, and ſo abſolute is his power over the Souldiery, who bear ſo great af<g ref="char:EOLhyphen"/>fection, that in obedience to his Command, they will ac<g ref="char:EOLhyphen"/>cord to any thing that be propoſeth. We hear that the Duke of Lorrain in a ſolemn pro<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſtation, h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> tendered both himſelf and Army, for the playing of the Scots Kings Game; but I ſhall wave the truth of this, until that great Diſcoverer, the little Eye witneſs, doth make it more manifeſt. In the mean time I conceive it to be one<g ref="char:EOLhyphen"/>ly a Rant, although the Royal party give out, hat the Ar<g ref="char:EOLhyphen"/>ticles of Amity are ſealed; which carries as much credu<g ref="char:EOLhyphen"/>lity as the States new levy here of 30000 men and 5000 gallant Martialiſts ſelected forth to man the Navy. The Spaniſh Army are marching to take up their Winter-quarters in Flanders, and it is ſaid the Prince of Conde haſtens after with what poſſible ſpeed he can, as not able to make good his ground againſt the Kings forces, who are as numerous as valiant: Gen. Thurene, and the (pre<g ref="char:EOLhyphen"/>tended) Duke of York, we hear, purſues him with 9000 Horſe and Foot, ſo that of neceſſity, he is like to quit France till the next Spring, and then peradventure he may receive the reward of Juſtice, and all his arrears together.</p>
+            <p>The States great Fleet here is lanching forth, and the Lords for encouragement of the Seamen, have paid them off all their arrears, ſo that there is a general concurrence of the Marriners to be in action, as many ſay; but I be<g ref="char:EOLhyphen"/>leeve in God.</p>
+            <closer>
+               <dateline>Bril, <date>Novemb. 10 <hi>ſtilo novo,</hi> 1652.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="8" facs="tcp:166356:5"/>
+            <opener>
+               <dateline>
+                  <date>Lêgorn October 8.</date>
+               </dateline>
+            </opener>
+            <p>I informed you of the cruelty that the Dutch exerciſed againſt every one of us in particular, but God hath been pleaſed intender mercy ſince our ſurprizal, to remember us, and diſappoint the purpoſes of our adverſaries, who under pretence of landing us at Genoa, ſteered their courſe for Meſſina, where they might be well aſſured we ſhould be deprived of any means of returning home; but meeting with our Engliſh men of war, after a great fight took one and ſome priſoners, whom they dayly ſolicit to take up arms againſt their country; which if they refuſe to do, they are threatned to be made to ſtand to the guns in fight. There have been ſeveral means uſed for their inlargment, but nothing would prevail. An exchange of ſome of them for ſome of the Dutch in England, might perhaps be a means for their relaxation; for their condition is as ſad as may be. Neither is there any permiſſion given by the Dutch. whereby they may be relieved with cloaths and other neceſſaries, which they are deſtitute of.</p>
+            <p>Here are 15 Dutch ſhips that would ply up and down towards the Streights mouth, but they are imployed in blocking up the ſhips that lie under the Caſtle of Porto<g ref="char:EOLhyphen"/>longon, where they intend to fire, (if they can) the Engliſh Admiral; and have to that end made a fireſhip of the Dove, which they took from us.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
